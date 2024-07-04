@@ -1,0 +1,10 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"rm_level","order":1,"path":"rooms/rm_level/rm_level.yy",},
+    {"name":"spr_boton","order":2,"path":"sprites/spr_boton/spr_boton.yy",},
+    {"name":"spr_fondo","order":4,"path":"sprites/spr_fondo/spr_fondo.yy",},
+    {"name":"spr_menu","order":3,"path":"sprites/spr_menu/spr_menu.yy",},
+    {"name":"Sprite1","order":1,"path":"sprites/Sprite1/Sprite1.yy",},
+  ],
+}
